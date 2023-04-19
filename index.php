@@ -13,7 +13,7 @@
                 </div>
             </form>
             <div class="msg">
-                <a href="http://faka.hosthk2.99web.top/" target="123">点击购买卡密</a>
+                
             </div>
 </body>
 <?php
